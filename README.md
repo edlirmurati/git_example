@@ -16,3 +16,8 @@ hello commit
 
 3. Wenn Git nicht anwtortet, wurde das File noch nie getracked. Falls es schonmal getracked worden ist, antwortet Git mit dem File. Man sollte sie tracken da dann ein Snapshot erstellt wird und es somit gespeichert ist.
 
+* this
+* is 
+* a
+* bulleted
+* list
